@@ -1,1 +1,1 @@
-Open the python Notebook
+Look at the python notebook
